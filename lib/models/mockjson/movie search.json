@@ -1,0 +1,76 @@
+{
+  "Search": [
+    {
+      "Title": "Captain America: The First Avenger",
+      "Year": "2011",
+      "imdbID": "tt0458339",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Captain America: The Winter Soldier",
+      "Year": "2014",
+      "imdbID": "tt1843866",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Captain America: Civil War",
+      "Year": "2016",
+      "imdbID": "tt3498820",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Captain America",
+      "Year": "1990",
+      "imdbID": "tt0103923",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmRmYzA4NDItZmI3NS00NWIyLWIzZWEtNGIzZjZlYmY5MzE2XkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg"
+    },
+    {
+      "Title": "Iron Man and Captain America: Heroes United",
+      "Year": "2014",
+      "imdbID": "tt3911200",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDIzMTIyYWEtYTAzZi00YzZjLTg5MGUtM2JiN2RjMDBjZmI3XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Captain America",
+      "Year": "1979",
+      "imdbID": "tt0078937",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmFkZWE5ODYtNjVjNC00MWYwLWJlNTgtODRlMTcyMmQwM2IxXkEyXkFqcGdeQXVyMTYxNjkxOQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Captain America II: Death Too Soon",
+      "Year": "1979",
+      "imdbID": "tt0078938",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1NTcyMzYzN15BMl5BanBnXkFtZTcwNzExMDQyMQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Captain America",
+      "Year": "1944",
+      "imdbID": "tt0036697",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjY4MjQ2MGMtYzNlMC00MGYwLWJlZjUtNjMxZWNhNDA5Y2UwXkEyXkFqcGdeQXVyNTc4Njg5MjA@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Captain America",
+      "Year": "1966",
+      "imdbID": "tt0206474",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM3NzE0NzU0N15BMl5BanBnXkFtZTcwNTAzMzYyMQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Captain America: Super Soldier",
+      "Year": "2011",
+      "imdbID": "tt1740721",
+      "Type": "game",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUwMzQ0NjE5N15BMl5BanBnXkFtZTgwODI3MzQxMTE@._V1_SX300.jpg"
+    }
+  ],
+  "totalResults": "34",
+  "Response": "True"
+}
