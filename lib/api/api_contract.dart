@@ -1,4 +1,4 @@
 abstract class IApi {
-  String get(String url);
-  String post(String url, Map<String, String> params);
+  Future<String> get(String url);
+  Future<String> post(String url, Map<String, String> params);
 }
