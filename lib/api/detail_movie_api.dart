@@ -5,10 +5,8 @@ import 'credentials.dart';
 import '../models/movie.dart';
 
 class DetailMovieAPI {
-  final Api? _api;
-  final Credentials? _credentials;
-
-  DetailMovieAPI(this._api, this._credentials);
+  final Api? _api = Api();
+  final Credentials? _credentials = Credentials();
 
   Future<Movie> getByID(String id) async {
     final endpoint = _credentials!.getEndpoint() + 'i=' + id;

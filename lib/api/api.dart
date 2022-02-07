@@ -20,6 +20,7 @@ class Api implements IApi {
   @override
   Future<String> post(String url, Map<String, String> params) {
     // this API project doesn't need post method.
+    // ignore: todo
     // TODO: implement post
     throw UnimplementedError();
   }
