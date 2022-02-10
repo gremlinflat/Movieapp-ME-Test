@@ -16,7 +16,9 @@ class SearchMovieAPI {
 
     final response = await _api!.get(endpoint);
     final json = jsonDecode(response);
-
-    return json.map<Movie>((json) => Movie.fromJson(json)).toList();
+    //mapping json to list of movies
+    final movies =
+        json['Search'].map<Movie>((movie) => Movie.fromJson(movie)).toList();
+    return movies;
   }
 }
